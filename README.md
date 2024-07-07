@@ -1,4 +1,4 @@
-# MavenMovies Data Analysis Project
+# Maven Movies Data Analysis BI Project
 
 ## Subtopic: Business Intelligence and Operational Insights
 
