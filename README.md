@@ -7,6 +7,8 @@
 
 **Objective:** Use MySQL to extract and analyze data from various tables in the Maven Movies database to answer the potential acquirer’s questions. Each question requires writing a multi-table SQL query, joining at least two tables.
 
+![Project Screenshot](https://github.com/danartech/Maven-Movies-Business-Intelligence-Project/blob/main/Maven%20Movie%20BI.png) 
+
 ## Project Scope and Steps
 
 ### 1. Managers' Details
@@ -71,4 +73,4 @@
 I successfully utilized MySQL to extract and analyze data, answering critical questions from the potential acquirer. This project showcased my proficiency in MySQL data querying and analysis, providing valuable insights into the business operations of Maven Movies.
 
 ## Project Link
-[GitHub Repository](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python)
+[GitHub Repository](https://github.com/danartech/Maven-Movies-Business-Intelligence-Project)
